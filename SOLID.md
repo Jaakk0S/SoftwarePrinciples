@@ -1,4 +1,6 @@
-SOLID principles (By Robert C. Martin in 2000):
+SOLID Design Principles were suggested by Robert C. Martin in 2000. Martin, a.k.a Uncle Bob, is a prominent figure in the Agile movement.
+
+SOLID principles - compact version:
 - S: Single Responsibility Principle
   - A class should have only one reason to change, meaning it should only have one job
 - O: Open-Closed Principle
